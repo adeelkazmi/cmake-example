@@ -3,5 +3,6 @@
 int main()
 {
   PrintNumber();
+  PrintStringView();
   return 0;
 }
