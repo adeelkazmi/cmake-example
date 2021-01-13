@@ -1,2 +1,2 @@
-add_executable (demo demo.cpp)
-target_link_libraries (demo LINK_PUBLIC Library)
+ADD_EXECUTABLE(demo demo.cpp)
+TARGET_LINK_LIBRARIES(demo LINK_PUBLIC Library)
